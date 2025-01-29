@@ -1,4 +1,4 @@
-# 🧑‍💻 Caio Cavalcante
+#👨🏻‍💻 Caio Cavalcante
 
 **`Desenvolvedor Front-End`**
 
