@@ -1,6 +1,6 @@
 # 🧑‍💻 Caio Cavalcante
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Caio Cavalcante, tenho 26 anos e sou natural do São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Anhnaguera. Estou buscando uma oportunidade para ingressar na área de programação, aperfeiçoar meus conhecimentos e poder contribuir em um ambiente de trabalho.
 
