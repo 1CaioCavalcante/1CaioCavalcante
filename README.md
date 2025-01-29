@@ -90,7 +90,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-o
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="120" 
+      height="200" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=1CaioCavalcante&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
@@ -98,7 +98,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-o
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="120" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=1CaioCavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
