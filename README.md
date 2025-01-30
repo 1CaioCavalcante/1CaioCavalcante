@@ -30,7 +30,7 @@ Me chamo Caio Cavalcante, tenho 26 anos e sou natural do São Paulo. Atualmente,
 
 ---
 
-### 📊 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
